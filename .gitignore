@@ -1,0 +1,9 @@
+*
+!/**/
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+!*.drawio
+!makefile
+!.gitignore
